@@ -1,0 +1,11 @@
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\bin\Debug\DORMULARIOBASE.exe.config
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\bin\Debug\DORMULARIOBASE.exe
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\bin\Debug\DORMULARIOBASE.pdb
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\obj\Debug\DORMULARIOBASE.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\obj\Debug\DORMULARIOBASE.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\obj\Debug\DORMULARIOBASE.Form1.resources
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\obj\Debug\DORMULARIOBASE.Properties.Resources.resources
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\obj\Debug\DORMULARIOBASE.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\obj\Debug\DORMULARIOBASE.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\obj\Debug\DORMULARIOBASE.exe
+C:\Users\jorge\source\repos\DORMULARIOBASE\DORMULARIOBASE\obj\Debug\DORMULARIOBASE.pdb
